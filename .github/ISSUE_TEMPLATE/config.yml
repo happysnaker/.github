@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support / async review
+    url: https://happysnaker.github.io/support/
+    about: Support open-source maintenance or book lightweight async GitHub / README / portfolio feedback.
