@@ -27,3 +27,5 @@ For larger changes, opening an issue first is usually the fastest way to align o
 If one of these repositories saved you time, you can also support ongoing maintenance here:
 
 - <https://happysnaker.github.io/support/>
+- `qq-ai-bot`: <https://happysnaker.github.io/support/#from-qq-ai-bot>
+- `RDLeader`: <https://happysnaker.github.io/support/#from-rdleader>

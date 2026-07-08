@@ -9,5 +9,6 @@ Included here:
 - contributing guidance
 - security reporting guidance
 - support / async review links
+- flagship project pages and project-specific support routes
 - default issue / PR templates
 - account-wide code of conduct
