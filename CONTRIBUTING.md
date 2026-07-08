@@ -27,5 +27,6 @@ For larger changes, opening an issue first is usually the fastest way to align o
 If one of these repositories saved you time, you can also support ongoing maintenance here:
 
 - <https://happysnaker.github.io/support/>
+- Sponsor one-pager: <https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager>
 - `qq-ai-bot`: <https://happysnaker.github.io/support/#from-qq-ai-bot>
 - `RDLeader`: <https://happysnaker.github.io/support/#from-rdleader>
