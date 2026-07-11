@@ -8,6 +8,7 @@ If a repository, template, checklist, or open-source contribution under **happys
 - Sponsor one-pager: <https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager>
 - Share kit: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md>
 - Flagship status snapshot: <https://github.com/happysnaker/happysnaker/blob/master/docs/flagship-status-snapshot.md>
+- Deploy-read sample: <https://happysnaker.github.io/review/deploy-read-sample/>
 
 Project-specific fast paths:
 
@@ -25,5 +26,6 @@ Best payment notes are concrete:
 - `RDLeader #27` — fund external submission review follow-up and public-safe proof packaging.
 - `Quick read` — ¥29.9 for one blunt first-impression pass on a public profile, repo, README, or landing page.
 - `Async review` — ¥99 for GitHub profile packaging, pinned repos, README cleanup, or one landing-page pass.
+- `Deploy read` — ¥29.9 for one blunt pass when a bot, agent, or infra repo runs but still looks toy-like.
 
 The support page includes WeChat Pay / Alipay QR codes, lightweight async review options, current support targets, and contact details. If you are reaching out about a specific repository, include the repo link and project name in your message.
