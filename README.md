@@ -9,7 +9,12 @@ Included here:
 - contributing guidance
 - security reporting guidance
 - support / async review links
+- proof-before-payment route for sponsors and curators
 - sponsor one-pager release for current support targets
 - flagship project pages and project-specific support routes
 - default issue / PR templates
 - account-wide code of conduct
+
+## Default support entry
+
+Repositories without repo-local support files inherit these account-wide routes. Start with <https://happysnaker.github.io/support/#proof-before-payment> if you want current workflow / alert proof before tipping, sponsoring, or buying a review.
