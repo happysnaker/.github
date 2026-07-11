@@ -11,11 +11,13 @@ Included here:
 - support / async review links
 - proof-before-payment route for sponsors and curators
 - sponsor one-pager release for current support targets
-- share kit for proof-safe project promotion
+- share kit and sponsor / paid-support intake replies for proof-safe project promotion
 - flagship project pages and project-specific support routes
 - default issue / PR templates
 - account-wide code of conduct
 
 ## Default support entry
 
-Repositories without repo-local support files inherit these account-wide routes. Start with <https://happysnaker.github.io/support/#proof-before-payment> if you want current workflow / alert proof before tipping, sponsoring, or buying a review. Use <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md> for proof-safe sharing snippets before promoting a project publicly.
+Repositories without repo-local support files inherit these account-wide routes. Start with <https://happysnaker.github.io/support/#proof-before-payment> if you want current workflow / alert proof before tipping, sponsoring, or buying a review. Use <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md> for proof-safe sharing snippets and sponsor / paid-support intake replies before promoting a project publicly or asking someone to pay.
+
+Do not paste private logs, credentials, QR codes, payment screenshots, or internal URLs into public issues. Public support should stay tied to proof links, current asks, and public repo/profile/landing-page material.
