@@ -30,5 +30,6 @@ If one of these repositories saved you time, you can also support ongoing mainte
 - Current concrete asks: <https://happysnaker.github.io/support/#current-asks>
 - Main support page: <https://happysnaker.github.io/support/>
 - Sponsor one-pager: <https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager>
+- Share kit: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md>
 - `qq-ai-bot`: <https://happysnaker.github.io/support/#from-qq-ai-bot>
 - `RDLeader`: <https://happysnaker.github.io/support/#from-rdleader>
