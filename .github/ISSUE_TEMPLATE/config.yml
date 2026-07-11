@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Proof before payment
+    url: https://happysnaker.github.io/support/#proof-before-payment
+    about: Check current workflow / alert proof and concrete payment notes before tipping, sponsoring, or buying a review.
+  - name: Current concrete asks
+    url: https://happysnaker.github.io/support/#current-asks
+    about: See the current visible support targets such as qq-ai-bot #26 arm64, RDLeader #27, and quick-read review.
   - name: Support / async review
     url: https://happysnaker.github.io/support/
     about: Support open-source maintenance or book lightweight async GitHub / README / portfolio feedback.
