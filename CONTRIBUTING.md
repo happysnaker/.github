@@ -32,6 +32,7 @@ If one of these repositories saved you time, you can also support ongoing mainte
 - Main support page: <https://happysnaker.github.io/support/>
 - Sponsor one-pager: <https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager>
 - Share kit: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md>
+- Sponsor prospect pipeline: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md>
 - Sponsor / paid-support intake replies: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies>
 - Deploy-read sample: <https://happysnaker.github.io/review/deploy-read-sample/>
 - `qq-ai-bot`: <https://happysnaker.github.io/support/#from-qq-ai-bot>
