@@ -33,9 +33,10 @@ If one of these repositories saved you time, you can also support ongoing mainte
 - Sponsor one-pager: <https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager>
 - Share kit: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md>
 - Sponsor prospect pipeline: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md>
+- Sponsor conversion scorecard: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md>
 - Sponsor / paid-support intake replies: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies>
 - Deploy-read sample: <https://happysnaker.github.io/review/deploy-read-sample/>
 - `qq-ai-bot`: <https://happysnaker.github.io/support/#from-qq-ai-bot>
 - `RDLeader`: <https://happysnaker.github.io/support/#from-rdleader>
 
-Do not send private logs, credentials, QR codes, payment screenshots, or internal URLs in public issues or PRs. Keep support / paid-review intake on public repo/profile/landing-page material unless you move details to private email.
+Do not send private logs, credentials, QR codes, payment screenshots, or internal URLs in public issues or PRs. Use Hot / Warm / Nurture / No-send qualification before support/outreach asks, and keep support / paid-review intake on public repo/profile/landing-page material unless you move details to private email.

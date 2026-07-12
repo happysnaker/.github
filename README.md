@@ -13,12 +13,13 @@ Included here:
 - sponsor one-pager release for current support targets
 - share kit and sponsor / paid-support intake replies for proof-safe project promotion
 - sponsor prospect pipeline for matching homelab testers, bot builders, curators, sponsors, and paid-review customers to the right proof / CTA / guardrail
+- sponsor conversion scorecard for Hot / Warm / Nurture / No-send qualification before any support ask
 - flagship project pages and project-specific support routes
 - default issue / PR templates
 - account-wide code of conduct
 
 ## Default support entry
 
-Repositories without repo-local support files inherit these account-wide routes. Start with <https://happysnaker.github.io/support/#proof-before-payment> if you want current workflow / alert proof before tipping, sponsoring, or buying a review. Use <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md> to route each audience to the right proof, CTA, support note, and guardrail; use <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md> for proof-safe sharing snippets and sponsor / paid-support intake replies before promoting a project publicly or asking someone to pay.
+Repositories without repo-local support files inherit these account-wide routes. Start with <https://happysnaker.github.io/support/#proof-before-payment> if you want current workflow / alert proof before tipping, sponsoring, or buying a review. Use <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md> to route each audience to the right proof, CTA, support note, and guardrail; use <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md> to classify Hot / Warm / Nurture / No-send before asking; use <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md> for proof-safe sharing snippets and sponsor / paid-support intake replies before promoting a project publicly or asking someone to pay.
 
 Do not paste private logs, credentials, QR codes, payment screenshots, or internal URLs into public issues. Public support should stay tied to proof links, current asks, and public repo/profile/landing-page material.

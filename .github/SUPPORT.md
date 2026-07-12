@@ -9,6 +9,7 @@ If a repository, template, checklist, or open-source contribution under **happys
 - Sponsor one-pager: <https://github.com/happysnaker/happysnaker/releases/tag/v2026.07-sponsor-one-pager>
 - Share kit: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md>
 - Sponsor prospect pipeline: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md>
+- Sponsor conversion scorecard: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md>
 - Sponsor / paid-support intake replies: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies>
 - Flagship status snapshot: <https://github.com/happysnaker/happysnaker/blob/master/docs/flagship-status-snapshot.md>
 - Deploy-read sample: <https://happysnaker.github.io/review/deploy-read-sample/>
@@ -33,4 +34,4 @@ Best payment notes are concrete:
 
 The support page includes WeChat Pay / Alipay QR codes, lightweight async review options, current support targets, and contact details. If you are reaching out about a specific repository, include the repo link and project name in your message.
 
-Do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues. Use the sponsor prospect pipeline to choose the right proof, CTA, support note, and guardrail by audience; use the sponsor / paid-support intake replies in the share kit when someone asks how to pay, sponsor, or buy a review.
+Do not paste private logs, credentials, QR codes, payment screenshots, internal URLs, or raw live integration output in public issues. Use the sponsor prospect pipeline to choose the right proof, CTA, support note, and guardrail by audience; use the sponsor conversion scorecard to classify Hot / Warm / Nurture / No-send before posting an ask; use the sponsor / paid-support intake replies in the share kit when someone asks how to pay, sponsor, or buy a review.
